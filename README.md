@@ -1,4 +1,4 @@
 ﻿# cesspool-tutorials
 
 
-learn how to code with CESSPOOL
+learn how to NOT code with CESSPOOL
